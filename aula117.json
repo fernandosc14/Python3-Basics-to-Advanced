@@ -1,0 +1,23 @@
+{
+    "nome": "Fernando",
+    "apelido": "Casas",
+    "morada": [
+        {
+            "rua": "Rua A",
+            "cidade": "Porto"
+        },
+        {
+            "rua": "Rua B",
+            "cidade": "Lisboa"
+        }
+    ],
+    "altura": 1.75,
+    "numeros_preferidos": [
+        3,
+        7,
+        9,
+        15
+    ],
+    "dev": true,
+    "nada": null
+}
