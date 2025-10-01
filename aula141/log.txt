@@ -1,0 +1,7 @@
+Success: Sucesso! (LogFileMixin)
+Error: Olá (LogFileMixin)
+Success: Sucesso! (LogFileMixin)
+Error: Olá (LogFileMixin)
+Success: Sucesso! (LogFileMixin)
+Success: iPhone 17 está ligado (Smartphone)
+Error: Samsung Galaxy Z está desligado (Smartphone)
