@@ -1,5 +1,5 @@
 """
-@property - um getter no mood Pythônico
+@property - um getter no modo Pythônico
 getter - um método para obter um atributo
 cor -> get_cor()
 modo pythônico - modo do Python de fazer as coisas
