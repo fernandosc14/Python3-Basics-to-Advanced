@@ -1,0 +1,15 @@
+{
+    "title": "O senhor dos Anéis: A Sociedade do Anel",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "is_movie": false,
+    "imdb_rating": 9.8,
+    "year": 2025,
+    "characters": [
+        "Frodo",
+        "Sam",
+        "Gandalf",
+        "Legolas",
+        "Boromir"
+    ],
+    "budget": null
+}
